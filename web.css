@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    display: flex;
+    background: rgb(246 206 144);
+}
+.navbar{
+
+width: 50%;
+}
+.navlist{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navlist li 
+{
+    list-style: none;
+    padding: 23px;
+}
+.navlist li a:hover{
+    color: grey;
+}
+.navlist li a
+{
+    text-decoration: none;
+    color: white;
+}
+.rightnav
+{
+    width: 50%;
+    text-align: right;
+    margin-right: 2px;
+    margin-top: 16px;
+}
+#search{
+    padding: 5px;
+    font-size: 15px;
+    border: 5px,3px;
+    border-radius: 20px;
+}
+.background
+{
+    background:rgb(0,0,0) url();
+}
