@@ -10,6 +10,10 @@
 
 width: 50%;
 }
+.logo img {
+    width: 80px;
+    float: left;
+    }
 .navlist{
     
     display: flex;
